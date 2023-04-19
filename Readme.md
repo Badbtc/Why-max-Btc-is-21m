@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FF0000&width=435&lines=Bad+btc+is+Here++!" alt="Typing SVG" /></a>
+
+
+
 <h1> Why maximum BTC is 21m blocks?</h1>
 
 <bold>This code simulates the process of calculating the block subsidy for Bitcoin, which is the reward given to miners for adding new blocks to the blockchain. The block subsidy is halved approximately every 210,000 blocks, or about every four years, until it reaches zero, meaning no new bitcoins will be created.
